@@ -1,0 +1,2 @@
+R² Score: 92.15%
+Mean Absolute Error: 1.11 °C

@@ -1,0 +1,13 @@
+Mean Squared Error: 3.49
+R²: 0.9820
+
+CONCLUSION:
+
+>
+
+The results indicate that non-linear machine learning models are more suitable for temperature prediction than linear approaches. The Random Forest model achieved high predictive accuracy with physically meaningful feature contributions. The applied data cleaning ensured realistic atmospheric conditions without significantly reducing data volume, leading to reliable and generalizable results.
+
+
+>
+
+"I built a model that predicts temperature with 92% accuracy. I successfully pushed the accuracy slightly higher using complex feature engineering, but I ultimately decided to stick with the simpler Random Forest model. In a real-world internship setting, I believe a robust model that is easy to explain and cheap to run is more valuable than a complex black-box model that only offers a tiny 0.5% improvement."
